@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WgD1NKqefK0FGsPqOlrgs38sQ8r2Bxm6362L6F6tHYThpLp64f6JvCAZyyZJsWztc8RFuIOsHTJ+M5xQPZbwYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\socgend31\\Downloads\\SOCGEN-master\\Day3\\Assignment1\\HandsOnMVCUsingViewModel\\Assignment1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\socgend31\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
